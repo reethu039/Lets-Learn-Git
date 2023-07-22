@@ -1,1 +1,1 @@
-print("2 * 3 =",6)
+print("hello \n2 * 3 =",6)
